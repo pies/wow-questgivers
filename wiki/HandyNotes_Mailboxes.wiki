@@ -1,1 +1,0 @@
-[http://wow.curse.com/downloads/wow-addons/details/handy-notes_mailboxes.aspx HandyNotes_Mailboxes] is a HandyNotes plugin that displays mailbox locations on the map.
