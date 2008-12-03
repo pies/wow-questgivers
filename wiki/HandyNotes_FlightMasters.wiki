@@ -1,0 +1,3 @@
+#summary Short description of HandyNotes_FlightMasters
+
+[http://wow.curse.com/downloads/wow-addons/details/handy-notes_flight-masters.aspx HandyNotes_FlightMasters] is a HandyNotes plugin that displays flightmasters and routes on the world map.
