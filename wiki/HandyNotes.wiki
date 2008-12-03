@@ -1,5 +1,0 @@
-#summary Short description of HandyNotes.
-
-!HandyNotes is a World of Warcraft addon that facilitates showing notes on the world map and the minimap.
-
-More info: http://wow.curse.com/downloads/wow-addons/details/handynotes.aspx
